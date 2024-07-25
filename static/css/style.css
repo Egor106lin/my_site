@@ -1,0 +1,66 @@
+.header {
+    font-size: 12pt;
+    width: 100%;
+    height: 40px;
+    background: #FFA500;
+    padding-left: 15px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman", serif, Verdana;
+}
+
+body, .header, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-size: 12pt;
+}
+
+p {
+    margin: 2% 0 2% 0;
+}
+
+body {
+    background-color: #DEDEDE;
+}
+
+hr {
+    height: 3px;
+    color: #FFA500;
+    background: #FFA500;
+    margin: 0;
+    border: none;
+}
+
+.end {
+    text-align: center;
+}
+
+/* текст и картинки */
+
+.top-text {
+    float: left;
+    margin-left: 5%;
+}
+
+.top {
+    display: flex;
+}
+
+.top-img {
+    float: left;
+    border-right: 3px solid #FFA500;
+}
+
+.top-list {
+    margin: 0 5% 0 5%;
+    border-left: 3px solid #FFA500;
+    border-right: 3px solid #FFA500;
+    background-color: #EEEEEE;
+}

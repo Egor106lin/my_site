@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bfaa466-848b-4cb5-9006-790aee16bb2b" name="Changes" comment="commit of my site">
-      <change afterPath="$PROJECT_DIR$/static/img/actors/top1_actors/top2-actor.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/actors/top1_actors/top3-actor.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/actors/top1_actors/top4-actor.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/actors/top1_actors/top5-actor.webp" afterDir="false" />
+    <list default="true" id="6bfaa466-848b-4cb5-9006-790aee16bb2b" name="Changes" comment="actor page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/top1-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/top1-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/top1-actor.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/actors/top1_actors/top1-actor.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/top1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/top1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721936146611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="actor page">
+      <option name="closed" value="true" />
+      <created>1721987975131</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721987975131</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit of my site" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit of my site" />
+    <MESSAGE value="actor page" />
+    <option name="LAST_COMMIT_MESSAGE" value="actor page" />
   </component>
 </project>
